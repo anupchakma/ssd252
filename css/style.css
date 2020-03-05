@@ -1,0 +1,18 @@
+body{
+	margin: 0;
+	display: block;
+}
+div{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-top: 150px;
+}
+h1
+ {margin: 0;font-size: 70px;color: red;background-color: #00b7ff12;text-shadow: 0 0 10 black;}
+}
+span{}
+img{
+	max-width: 100%
+}
